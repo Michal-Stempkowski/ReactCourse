@@ -1,0 +1,20 @@
+.with-margins
+{
+    margin: 10px 10px 10px 10px;
+}
+
+.normal-area
+{
+    background-color: lightblue;
+}
+
+.highlighted-area
+{
+    background-color: lightskyblue;
+}
+
+.special-child-highlight
+{
+    background-color: deepskyblue;
+    margin: 10px 10px 10px 10px;
+}

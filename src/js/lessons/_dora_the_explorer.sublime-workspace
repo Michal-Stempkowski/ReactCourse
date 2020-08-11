@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onLog",
+				"onLogSourceDuplicated"
+			],
+			[
+				"onLo",
+				"onLogSourceDeleted"
+			],
+			[
+				"log",
+				"logSources"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"Ord",
+				"OrderFormV2Layout"
+			],
+			[
+				"orde",
+				"orderedLogSources"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"Row",
+				"RowWithInput"
+			],
+			[
+				"ss",
+				"ssid"
+			],
+			[
+				"ssi",
+				"ssidInput"
+			],
+			[
+				"rende",
+				"RenderCalledEachTimeUiChanges"
+			],
+			[
+				"Rend",
+				"RenderCalledEachTimeUiChanges"
+			],
+			[
+				"Js",
+				"JsxEscapesSpecialCharacters"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"Re",
+				"ReactDOM"
+			],
+			[
+				"is",
+				"isVisible"
+			],
+			[
+				"E",
+				"Example"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/_dora_the_explorer"
+	],
+	"file_history":
+	[
+		"/C/_repos/react-demo/src/js/lessons/state-hook-implementation/EditableLogSource.js",
+		"/C/_repos/Tieto.Soc.Portal/Source/Tieto.Soc.Portal/React/src/Components/Primitive/TextBox/LabeledTextBox.jsx",
+		"/C/_repos/react-demo/node_modules/async/apply.js",
+		"/C/_repos/react-demo/src/js/lessons/Children.js",
+		"/C/_repos/react-demo/src/js/components/Example.js",
+		"/C/_repos/react-demo/src/js/Examples.js",
+		"/C/_repos/react-demo/src/index.html",
+		"/C/_repos/react-demo/src/js/lessons/Properties.js",
+		"/C/_repos/react-demo/src/js/lessons/children-implementation/MySiemOrderFormV2.js",
+		"/C/_repos/react-demo/src/js/lessons/properties-implementation/MySiemOrderForm.js",
+		"/C/_repos/react-demo/src/js/lessons/properties-implementation/OrderedLogSources.js",
+		"/C/_repos/react-demo/src/js/lessons/properties-implementation/LogSource.js",
+		"/C/_repos/react-demo/src/js/lessons/properties-implementation/UserDetails.js",
+		"/C/_repos/react-demo/src/js/components/RowWithInput.js",
+		"/C/_repos/react-demo/src/index.js",
+		"/C/_repos/react-demo/src/js/lessons/JavaScriptExpression.js",
+		"/C/_repos/react-demo/src/js/lessons/JsxEscapesSpecialCharacters.js",
+		"/C/_repos/react-demo/src/css/custom-styles.css",
+		"/C/_repos/react-demo/src/js/lessons/JsxAlsoGeneratesObjects.js",
+		"/C/_repos/react-demo/src/js/lessons/HelloWorld.js",
+		"/C/_repos/react-demo/src/js/lessons/hello-world-implementation/FromReactComponents.js",
+		"/C/_repos/react-demo/src/js/lessons/hello-world-implementation/SayHello.js",
+		"/C/_repos/Tieto.SyncServices 3.x/Source/Tieto.Security.SyncServices/Tieto.SyncServices.Domain.Tests/Siem/LogSourceHelpDescription.txt",
+		"/C/_repos/react-demo/src/js/lessons/render-called-each-time-ui-changes-implementation/NiceClock.js",
+		"/C/_repos/react-demo/src/js/lessons/RenderCalledEachTimeUiChanges.js",
+		"/C/_repos/react-demo/src/js/lessons/JsxEscapesValuesBeforeRenderingThem.js",
+		"/C/_repos/react-demo/src/js/components/Examples.js",
+		"/C/_repos/Tieto.Soc.Portal/Source/Tieto.Soc.Portal/React/src/Components/Layout/Tabs/TabBar.jsx",
+		"/C/_repos/Tieto.Soc.Portal/Source/Tieto.Soc.Portal/React/src/Components/Layout/Tabs/Tabs.jsx",
+		"/C/_repos/react-demo/webpack.config.js",
+		"/C/_repos/react-demo/src/js/components/Form.js",
+		"/C/_repos/react-demo/dist/main.js",
+		"/C/_repos/react-demo/dist/index.html",
+		"/C/_repos/react-demo/src/js/components/Form.jsx",
+		"/C/_repos/react-demo/src/js/index.js",
+		"/C/_repos/Tieto.Soc.Portal/Source/Tieto.Soc.Portal/appsettings.json",
+		"/C/_repos/Tieto.Soc.Portal/Source/Tieto.Soc.Portal/appsettings.Development.json",
+		"/C/_dora_the_explorer/McAfeeLogSources.plant.dot",
+		"/C/_dora_the_explorer/McAffeeCapture.har",
+		"/C/_dora_the_explorer/McAffeCapture.har",
+		"/C/_repos/Tieto.DataLayer/tfs/CheckBranchNamingConvention.ps1",
+		"/C/_repos/Tieto.DataLayer/tfs/CheckPackageReferencesAddedToNuget.ps1",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.Repositories.MicrosoftGraphAlerts/Tieto.Repositories.MicrosoftGraphAlerts.csproj",
+		"/C/_repos/Tieto.SyncServices 3.x/_codeAnalysis/Tieto.CodeAnalysis.SyncServices.ruleset",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.Repositories.MicrosoftGraphAlerts/app.config",
+		"/C/_repos/Tieto.DataLayer/tfs/CheckProjectsHaveCodeAnalysisSetUp.ps1",
+		"/C/_repos/Tieto.DataLayer/tfs/CheckSqlFilesIncludeAsNone.ps1",
+		"/C/_repos/Tieto.DataLayer/tfs/CheckTestProjectsHasRequiredDependencies.ps1",
+		"/C/_repos/Tieto.DataLayer/tfs/ValidateNuspecsOrTheirLackOf.ps1",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.Repositories.MicrosoftGraphAlerts/Tieto.Repositories.MicrosoftGraphAlerts.csproj.nuspec",
+		"/C/_dora_the_explorer/SiemPrivateApiAfterDecoding.txt",
+		"/C/_dora_the_explorer/SiemPrivateApiToBeDecoded.txt",
+		"/C/_dora_the_explorer/PrivateSiemDecode/1.har",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.Repositories.MicrosoftGraphAlerts/packages.config",
+		"/C/_repos/Tieto.Core/ValidateNuspecsOrTheirLackOf.ps1",
+		"/C/_repos/Tieto.Logging/tfs/CheckProjectsHaveCodeAnalysisSetUp.ps1",
+		"/C/_dora_the_explorer/SiemApiConclusion.txt",
+		"/C/_repos/Tieto.Logging/NuGet.Config",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.DataLayer.sln.DotSettings",
+		"/C/_repos/Tieto.DataLayer/Tieto.DataLayer/Tieto.DataLayer.sln.DotSettings.user",
+		"/C/_repos/Tieto.DataLayer/tfs/commonFunctions.psm1",
+		"/C/_repos/Tieto.DataLayer/.gitattributes",
+		"/C/_repos/Tieto.DataLayer/Tieto.CodeAnalysis.ruleset"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_dora_the_explorer.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
