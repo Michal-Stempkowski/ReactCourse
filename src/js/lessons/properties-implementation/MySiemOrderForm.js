@@ -4,12 +4,14 @@ import { Col, Jumbotron, Row } from 'reactstrap';
 import UserDetails from './UserDetails';
 import OrderedLogSources from './OrderedLogSources';
 
-const MySiemOrderForm = ({ siemOrder: { user, orderedLogSources }, title }) => {
-// const MySiemOrderForm = (props) => {
-    // const title = props.title;
-    // const siemOrder = props.siemOrder;
-    // const user = siemOrder.user;
-    // const orderedLogSources = siemOrder.orderedLogSources;
+// const MySiemOrderForm = (siemOrder: { user, orderedLogSources }, title) => {
+// const MySiemOrderForm = ({ siemOrder: { user, orderedLogSources }, title }) => {
+const MySiemOrderForm = (props) => {
+
+    const title = props.title;
+    const siemOrder = props.siemOrder;
+    const user = siemOrder.user;
+    const orderedLogSources = siemOrder.orderedLogSources;
 
     // Or we could JavaScript ES6 destructuring assignment:
     // const { siemOrder: { user, orderedLogSources }, title } = props;
