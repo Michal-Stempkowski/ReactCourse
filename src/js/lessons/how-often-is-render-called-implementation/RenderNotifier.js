@@ -8,6 +8,12 @@ import React, { useState } from 'react';
 import { Button } from 'reactstrap';
 import uniqid from 'uniqid';
 
+const validationFunction = (v) => {
+    if (v < 1) return [false, 'Eps must be at least 1'];
+    else if (v > 5) return [false, 'Eps must be at most 5'];
+    return [true, ''];
+};
+
 const RenderNotifier = () =>
 {
     const [eps, setEps] = useState(2);
@@ -18,12 +24,6 @@ const RenderNotifier = () =>
     // console.log(message);
 
     console.log('Render called at', new Date());
-
-    const validationFunction = (v) => {
-        if (v < 1) return [false, 'Eps must be at least 1'];
-        else if (v > 5) return [false, 'Eps must be at most 5'];
-        return [true, ''];
-    };
 
     return (<OrderFormV2Layout title='Once per trackable change (though our current tracking method is not so good)'>
         <EditableRowWithInput

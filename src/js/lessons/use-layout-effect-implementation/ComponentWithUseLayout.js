@@ -8,7 +8,6 @@ const ComponentWithUseLayout = () =>
     const [height, setHeight] = useState(0);
 
     useLayoutEffect(() => {
-        console.log('render');
         setHeight(inputRef.current.clientHeight);
     });
 

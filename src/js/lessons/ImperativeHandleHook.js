@@ -9,14 +9,14 @@ import { Button } from 'reactstrap';
 
 const ImperativeHandleHook = () =>
 {
-    const childRef = useRef(null);
+    const fancyInputRef = useRef(null);
 
     return (
         <Example name='Imperative Handle Hook (ImperativeHandleHook.js)' >
             <OrderFormV2Layout title='We can customize reference that is being exposed to parent' >
-                <Button color='primary' onClick={() => childRef.current.focus()} >Focus</Button>
-                <Button color='primary' onClick={() => childRef.current.clearAndFocus()} >Focus and clear</Button>
-                <FancyRowWithInput id='fancyInput' label='Enter your input here' initialValue='some initial value' ref={childRef} />
+                <Button color='primary' onClick={() => fancyInputRef.current.focus()} >Focus</Button>
+                <Button color='primary' onClick={() => fancyInputRef.current.clearAndFocus()} >Focus and clear</Button>
+                <FancyRowWithInput id='fancyInput' label='Enter your input here' initialValue='some initial value' ref={fancyInputRef} />
             </OrderFormV2Layout>
         </Example>);
 };

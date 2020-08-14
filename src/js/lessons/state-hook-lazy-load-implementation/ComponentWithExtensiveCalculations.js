@@ -16,12 +16,6 @@ const StateHookLazyLoad = () =>
     const [calculationResult, setCalculationResult] = useState(expensiveCalculations);
     // const [calculationResult, setCalculationResult] = useState(expensiveCalculations());
 
-    const [isCalculated, setCalculated] = useState(false);
-
-    const onClick = () => {
-        setCalculated(!isCalculated);
-    };
-
     return (<OrderFormV2Layout title='Why to recalculate something on render that is expensive if used as initializer only'>
         <EditableRowWithInput
                 id='calculationResult'

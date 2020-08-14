@@ -6,15 +6,15 @@ import OrderFormV2Layout from './children-implementation/OrderFormV2Layout';
 
 import React, { useState } from 'react';
 
+const validationFunction = (v) => {
+    if (v < 1) return [false, 'Eps must be at least 1'];
+    else if (v > 5) return [false, 'Eps must be at most 5'];
+    return [true, ''];
+};
+
 const StateHookIntro = () =>
 {
     const [eps, setEps] = useState(2);
-
-    const validationFunction = (v) => {
-        if (v < 1) return [false, 'Eps must be at least 1'];
-        else if (v > 5) return [false, 'Eps must be at most 5'];
-        return [true, ''];
-    };
 
     return (<Example name='State Hook Intro (StateHookIntro.js)' >
         <OrderFormV2Layout title='State hook / state update (loop) / DOM update / state hoisting'>

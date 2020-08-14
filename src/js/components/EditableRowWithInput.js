@@ -9,7 +9,7 @@ const EditableRowWithInput = ({id, label, type='text', initialValue='', onChange
         return [result[0] === true, result[1]];
     };
 
-    const [initialIsValid, initialValidationMessage] = validate === null ? [true, ''] : validate(initialValue);
+    const [initialIsValid, initialValidationMessage] = validate === null ? [true, ''] : performValidation(initialValue, validate);
     const [isValid, setIsValid] = useState(initialIsValid);
     const [validationMessage, setValidationMessage] = useState(initialValidationMessage);
     const [isChanged, setIsChanged] = useState(false);

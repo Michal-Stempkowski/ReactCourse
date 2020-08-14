@@ -8,7 +8,6 @@ const ComponentWithUseEffect = () =>
     const [height, setHeight] = useState(0);
 
     useEffect(() => {
-        console.log('render');
         setHeight(inputRef.current.clientHeight);
     });
 

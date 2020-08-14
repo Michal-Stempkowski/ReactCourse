@@ -57,6 +57,5 @@ const StateHook = () =>
         </OrderFormV2Layout>
     </Example>);
 };
-    
 
 export default StateHook;
